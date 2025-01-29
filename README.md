@@ -6,16 +6,23 @@
 
 ---
 
+## 🔥 About Me
+- 🧪 **QA Engineer** with a passion for automation  
+- 💻 Love working with **Java, Selenium, and REST Assured**  
+- 🎯 Always learning **new testing tools and technologies**  
+- 🛠️ Exploring **privacy policies (DSGVO), project management, and cloud solutions**  
+
+---
+
 ## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MicusHub&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   <img src="https://streak-stats.demolab.com/?user=MicusHub&theme=tokyonight" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicusHub&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 ---
 
-## 🔥 Tech Stack
+## 💡 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,ts,selenium,postman,github,linux,macos,windows,idea,vscode,ps,pr,ai,au,figma,bootstrap,apache,jenkins,npm,git" />
 </p>
@@ -45,13 +52,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mark-volodkovych-b74725348/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:mark.wolodkowich@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-## 🚀 Recent Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MicusHub&theme=tokyonight" alt="GitHub Activity Graph">
 </p>
 
 ---
