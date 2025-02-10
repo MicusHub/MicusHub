@@ -24,7 +24,7 @@
 
 ## 💡 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,selenium,postman,github,linux,macos,windows,idea,vscode,ps,pr,ai,au,figma,bootstrap,apache,jenkins,npm,git" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,selenium,gherkin,,gradle,maven,postman,github,linux,macos,windows,npm,idea,vscode,ps,pr,ai,au,figma,bootstrap,apache,jenkins,npm,git" />
 </p>
 
 ### 🛠️ Additional Skills
