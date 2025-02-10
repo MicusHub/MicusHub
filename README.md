@@ -47,18 +47,6 @@
 
 ---
 
-## 🎯 Featured Projects
-<p align="center">
-  <a href="https://github.com/MicusHub/FoodNow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MicusHub&repo=FoodNow&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/MicusHub/AnotherProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MicusHub&repo=AnotherProject&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mark-volodkovych-b74725348/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
