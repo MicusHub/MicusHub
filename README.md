@@ -16,7 +16,18 @@
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MicusHub&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <a href="https://github.com/MicusHub">
+    
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MicusHub&theme=solarized_dark" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MicusHub&theme=solarized_dark" alt="Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MicusHub&theme=solarized_dark" alt="Productive Time">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MicusHub&theme=solarized_dark" alt="Most Commit Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MicusHub&theme=solarized_dark" alt="Repos Per Language">
   <img src="https://streak-stats.demolab.com/?user=MicusHub&theme=tokyonight" alt="GitHub Streak">
 </p>
 
